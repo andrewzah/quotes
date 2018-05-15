@@ -1,0 +1,21 @@
+{
+  "quotes":
+  [
+    {"author": "Emil Artin", "source": "", "quote": "It is my experience that proofs involving matrices can be shortened by 50% if one throws the matrices out."},
+    { "author": "Dave Barry", "source": "", "quote": "Americans who travel abroad for the first time are often shocked to discover that, despite all the progress that has been made in the last 30 years, many foreign people still speak in foreign languages." },
+    { "author": "Martin Vanbee", "source": "", "quote": "If your foot slips, you may recover your balance, but if your tongue slips, you cannot recall your words." },
+    { "author": "Jean Dieudonné", "source": "", "quote": "There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices." },
+    { "author": "Hermann Weyl", "source": "", "quote": "The introduction of numbers as coordinates is an act of violence." },
+    { "author": "Morpheus", "source": "", "quote": "Unfortunately, no one can be told what the Matrix is. You have to see it for yourself." },
+    { "author": "Czech proverb", "source": "", "quote": "You live a new life for every new language you speak.  If you know only one language, you live only once." },
+    { "author": "Angus K. Rodgers", "source": "", "quote": "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." },
+    { "author": "Christopher W. Alexander", "source": "", "quote": "Within this process, every individual act of building is a process in which space gets differentiated. It is not a process of addition, in which preformed parts are combined to create a whole, but a process of unfolding, like the evolution of an embryo, in which the whole precedes the parts, and actually gives birth to them, by splitting." },
+    { "author": "Johann Wolfgang von Goethe", "source": "", "quote": "Those who know nothing of foreign languages know nothing of their own." },
+    { "author": "Chancellor Edward Lee Gorsuch", "source": "", "quote": "Learning a foreign language not only reveals how other societies think and feel, what they have experienced and value, and how they express themselves, it also provides a cultural mirror in which we can more clearly see our own society." },
+    { "author": "Kurt Vonnegut", "source": "God Bless You, Mr. Rosewater", "quote": "The reason creatures wanted to use language instead of mental telepathy was that they found out they could get so much more done with language. Language made them so much more active. Mental telepathy, with everybody constantly telling everybody everything, produced a sort of generalized indifference to all information. But language, with its slow, narrow meanings, made it possible to think about one thing at a time -- to start thinking in terms of projects." },
+    { "author": "Kurt Vonnegut", "source": "", "quote": "Of all the words of mice and men, the saddest are, 'It might have been.'" },
+    { "author": "Paul Erdős", "source": "", "quote": "It is not enough to be in the right place at the right time. You should also have an open mind at the right time." },
+    { "author": "Eric S. Raymond", "source": "The Cathedral and the Bazaar", "quote": "Given enough eyeballs, all bugs are shallow." },
+    { "author": "Harold Abelson & Gerald Jay Sussman", "source": "The Structure and Interpretation of Computer Programs", "quote": "Programs must be written for people to read, and only incidentally for machines to execute." }
+  ]
+}

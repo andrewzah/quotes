@@ -1,13 +1,13 @@
 {
   "quotes":
   [
-
     { "author": "/u/PeelerNo44", "source": "", "quote": "All of the people that have passed through your life have added themselves to a rich tapestry of your life story, and you to theirs in kind. We rarely travel this journey through life together with any given person for very long, but that does not detract from the value of having travelled it with them for the time we've had." },
     { "author": "Aaron Swartz (?)", "source": "", "quote": "Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity." },
     { "author": "Angus K. Rodgers", "source": "", "quote": "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." },
     { "author": "Aristotle", "source": "", "quote": "It is the mark of an educated mind to entertain an idea without accepting it." },
     { "author": "Chancellor Edward Lee Gorsuch", "source": "", "quote": "Learning a foreign language not only reveals how other societies think and feel, what they have experienced and value, and how they express themselves, it also provides a cultural mirror in which we can more clearly see our own society." },
     { "author": "Christopher W. Alexander", "source": "The Timeless Way of Building", "quote": "Within this process, every individual act of building is a process in which space gets differentiated. It is not a process of addition, in which preformed parts are combined to create a whole, but a process of unfolding, like the evolution of an embryo, in which the whole precedes the parts, and actually gives birth to them, by splitting." },
+    { "author": "Confucius", "source": "", "quote": "We have two lives, and the second begins when we realize we only have one."},
     { "author": "Czech proverb", "source": "", "quote": "You live a new life for every new language you speak.  If you know only one language, you live only once." },
     { "author": "Dave Barry", "source": "", "quote": "Americans who travel abroad for the first time are often shocked to discover that, despite all the progress that has been made in the last 30 years, many foreign people still speak in foreign languages." },
     { "author": "Edward de Bono", "source": "", "quote": "An idea that is developed and put into action is more important than an idea that exists only as an idea."},
@@ -59,11 +59,11 @@
     {"author":"Henry David Thoreau", "source":"", "quote":" To have made even one person's life a little better, that is to succeed."},
     {"author":"Henry David Thoreau", "source":"", "quote":"Dissent without action is consent."},
     {"author":"Henry David Thoreau", "source":"", "quote":"Life isn't about finding yourself; it's about creating yourself. So live the life you imagined."},
-    {"author":"Theodore Roosevelt", "source":"", "quote":"Knowing what's right doesn't mean much unless you do what's right."},
-    {"author":"Unknown", "source":"", "quote":"I am a great believer in luck. The harder I work, the more of it I seem to have."},
+    {"author":"Lemony Snicket", "source":"", "quote":"All the secrets of the world are contained in books. Read at your own risk."},
     {"author":"Lemony Snicket", "source":"", "quote":"Never trust anyone who has not brought a book with them."},
     {"author":"Lemony Snicket", "source":"", "quote":"Reading is one form of escape. Running for your life is another."},
-    {"author":"Lemony Snicket", "source":"", "quote":"All the secrets of the world are contained in books. Read at your own risk."}
+    {"author":"Theodore Roosevelt", "source":"", "quote":"Knowing what's right doesn't mean much unless you do what's right."},
+    {"author":"Unknown", "source":"", "quote":"I am a great believer in luck. The harder I work, the more of it I seem to have."}
   ]
 }
 

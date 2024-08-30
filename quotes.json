@@ -1,5 +1,6 @@
 {
   "uncategorized": [
+    { "author": "David Graeber", "source": "The Utopia of Rule", "quote": "The ultimate, hidden truth of the world is that it is something that we make, and could just as easily make differently." },
     { "author": "/u/PeelerNo44", "source": "", "quote": "All of the people that have passed through your life have added themselves to a rich tapestry of your life story, and you to theirs in kind. We rarely travel this journey through life together with any given person for very long, but that does not detract from the value of having travelled it with them for the time we've had." },
     { "author": "Aaron Swartz (?)", "source": "", "quote": "Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity." },
     { "author": "Angus K. Rodgers", "source": "", "quote": "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." },
@@ -30,7 +31,8 @@
   ],
   "programming": [
     { "author": "Eric S. Raymond", "source": "The Cathedral and the Bazaar", "quote": "Given enough eyeballs, all bugs are shallow." },
-    { "author": "Harold Abelson & Gerald Jay Sussman", "source": "The Structure and Interpretation of Computer Programs", "quote": "Programs must be written for people to read, and only incidentally for machines to execute." }
+    { "author": "Harold Abelson & Gerald Jay Sussman", "source": "The Structure and Interpretation of Computer Programs", "quote": "Programs must be written for people to read, and only incidentally for machines to execute." },
+    { "author": "Russ Cox", "source": "What is Software Engineering?", "quote": "Software engineering is what happens to programming when you add time and other programmers." }
   ],
   "thinking": [
     { "author": "Edward de Bono", "source": "", "quote": "An idea that is developed and put into action is more important than an idea that exists only as an idea."},

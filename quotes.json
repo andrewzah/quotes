@@ -19,7 +19,11 @@
     { "author": "Paul Erdős", "source": "", "quote": "It is not enough to be in the right place at the right time. You should also have an open mind at the right time." },
     { "author": "Unknown", "source": "", "quote": "The plural of anecdote is not data." },
     { "author": "Unknown", "source":"", "quote": "I am a great believer in luck. The harder I work, the more of it I seem to have." },
-    { "author": "Confucius", "source": "", "quote": "We have two lives, and the second begins when we realize we only have one."}
+    { "author": "Confucius", "source": "", "quote": "We have two lives, and the second begins when we realize we only have one."},
+    { "author": "Leonardo Da Vinci", "source": "", "quote": "The smallest feline is a masterpiece."},
+    { "author": "Charlie Munger", "source": "", "quote": "Show me the incentive and I will show you the outcome."},
+    { "author": "Charlie Munger", "source": "The Psychology of Human Misjudgment", "quote": "Perhaps the most important rule in management is 'Get the incentives right'."},
+    { "author": "Benjamin Franklin", "source": "Poor Richard's Almanack", "quote": "If you would persuade, appeal to interest and not to reason."}
   ],
   "art": [
     { "author": "Mokokoma Mokhonoana", "source": "Confessions of a Misfit", "quote": "A blank check kills creativity." }
@@ -32,7 +36,9 @@
   "programming": [
     { "author": "Eric S. Raymond", "source": "The Cathedral and the Bazaar", "quote": "Given enough eyeballs, all bugs are shallow." },
     { "author": "Harold Abelson & Gerald Jay Sussman", "source": "The Structure and Interpretation of Computer Programs", "quote": "Programs must be written for people to read, and only incidentally for machines to execute." },
-    { "author": "Russ Cox", "source": "What is Software Engineering?", "quote": "Software engineering is what happens to programming when you add time and other programmers." }
+    { "author": "Russ Cox", "source": "What is Software Engineering?", "quote": "Software engineering is what happens to programming when you add time and other programmers." },
+    { "author": "Fred Brooks", "source": "The Mythical Man-Month", "quote": "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.... Yet the program construct, unlike the poet's words, is real in the sense that it moves and works, producing visible outputs separate from the construct itself. " }
+
   ],
   "thinking": [
     { "author": "Edward de Bono", "source": "", "quote": "An idea that is developed and put into action is more important than an idea that exists only as an idea."},
@@ -68,7 +74,8 @@
     { "author": "Theodore Roosevelt", "source": "", "quote": "Knowing what's right doesn't mean much unless you do what's right." },
     { "author": "Johann Wolfgang von Goethe", "source": "", "quote": "If you treat an individual as he is, he will remain how he is. But if you treat him as if he were what he ought to be and could be, he will become what he ought to be and could be." },
     { "author": "Johann Wolfgang von Goethe", "source": "", "quote": "You can easily judge the character of a man by how he treats those who can do nothing for him." },
-    { "author": "Johann Wolfgang von Goethe", "source": "Faust, First Part", "quote": "A man sees in the world what he carries in his heart." }
+    { "author": "Johann Wolfgang von Goethe", "source": "Faust, First Part", "quote": "A man sees in the world what he carries in his heart." },
+    { "author": "Diogenes of Sinope", "source": "", "quote": "Of what use is a philosopher who doesn't hurt anybody's feelings?" }
   ],
   "language": [
     { "author": "Chancellor Edward Lee Gorsuch", "source": "", "quote": "Learning a foreign language not only reveals how other societies think and feel, what they have experienced and value, and how they express themselves, it also provides a cultural mirror in which we can more clearly see our own society." },
